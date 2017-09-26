@@ -12,7 +12,7 @@
   "author": "Samuel Longshak",
   "license": "MIT",
   "dependencies": {
-    "chi": "0.0.10",
+    "chai": "^4.1.2",
     "mocha": "^3.5.3"
   }
 }
